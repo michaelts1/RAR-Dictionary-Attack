@@ -1,2 +1,2 @@
-# RAR-Dictionary-Attack
-Python program for cracking RAR files.
+# RAR File Dictionary Attack
+Python 3 program for cracking RAR files using a dictionary attack.
